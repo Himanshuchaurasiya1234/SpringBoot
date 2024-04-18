@@ -12,8 +12,9 @@ Run as-> Spring boot app
 
 
 ## API 1: Get the Weather forecast summary of Any city using API (RapidApiGetForecastSummaryByLocationName)
-In the below picture getting output for Forecast Summary By Location Name
-![image](https://user-images.githubusercontent.com/73180409/229243209-31dacd4e-1d7c-4632-b8a7-5903ad833c54.png)
+in headers pass X-RapidAPI-Host = forecast9.p.rapidapi.com
+and X-RapidAPI-Key = eb1fab039cmshe5bbf999bc4caf0p135a40jsnc12bcb123bd7
+and pass json request body 
 
 
 
